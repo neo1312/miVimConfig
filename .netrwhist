@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/lv13/prueba'
+let g:netrw_dirhist_5='/home/lv13/fl1/erp/scm'
+let g:netrw_dirhist_4='/home/lv13/fl1/erp/scm/templates'
+let g:netrw_dirhist_3='/home/lv13/fl1/erp/config'
+let g:netrw_dirhist_2='/home/lv13/fl1/erp/templates'
+let g:netrw_dirhist_1='/home/lv13/Documents'
